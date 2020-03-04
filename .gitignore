@@ -1,0 +1,22 @@
+node_modules
+hajjar-tech-demo.code-workspace
+sqlite
+
+# Android
+
+android/debug.keystore
+android/gradlew
+android/android.iml
+android/.gradle
+android/.idea
+android/build
+android/app/build/
+android/app/debug/
+android/app/release/
+android/app/google-services.json
+android/app/app.iml
+android/app/src/main/assets/shell-app.bundle
+
+# iOS
+ios/hajjar-tech/Supporting/shell-app.bundle
+ios/Pods/
