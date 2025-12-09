@@ -1,5 +1,3 @@
-[Get on Google Play Store!](https://play.google.com/store/apps/details?id=com.hajjar.alcomputerjy)
-
 ## About
 
 App built for a client, who wanted to make a custom app for their Wordpress news site, therefore the content is fetched using the Wordpress API. The app was built with React Native for Android and iOS, the iOS version is pending publication. AdMob ads are used to monetize the app.
